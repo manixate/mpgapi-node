@@ -1,0 +1,19 @@
+{
+  "name": "mpgapi-node",
+  "version": "0.0.1",
+  "description": "Moneris eSelectPlus API for Node.JS",
+  "main": "index.js",
+  "dependencies": {
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moneris",
+    "eselectplus"
+  ],
+  "author": "Muhammad Azeem",
+  "license": "ISC"
+}
