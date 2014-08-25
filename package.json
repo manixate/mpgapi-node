@@ -1,7 +1,7 @@
 {
   "name": "mpgapi-node",
   "version": "0.0.1",
-  "description": "Moneris eSelectPlus API for Node.JS",
+  "description": "Moneris eSelectPlus Node.JS based API",
   "main": "index.js",
   "dependencies": {
     "xml2js": "^0.4.4"
@@ -10,10 +10,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manixate/mpgapi-node.git"
+  },
   "keywords": [
     "moneris",
-    "eselectplus"
+    "eselectplus",
+    "payment gateway"
   ],
-  "author": "Muhammad Azeem",
-  "license": "ISC"
+  "author": "Muhammad Azeem <manixate@gmail.com>",
+  "license": "MIT"
 }
