@@ -4,7 +4,10 @@
   "description": "Moneris eSelectPlus Node.JS based API",
   "main": "index.js",
   "dependencies": {
-    "xml2js": "^0.4.4"
+    "xml2js": "^0.4.4",
+    "request": "^2.37.0",
+    "q": "^1.0.1",
+    "underscore": "^1.6.0"
   },
   "devDependencies": {},
   "scripts": {
